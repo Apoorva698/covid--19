@@ -1,2 +1,2 @@
 # covid--19
-This covid-19 project  tells that in which state or country has more no of confirmed cases.
+This covid-19 project  tells that in which state or country has more no of confirmed cases by date wise.
